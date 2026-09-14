@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy El Archivo Vivo 👋
 
-<!--
-**pedrosimon12728/pedrosimon12728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **pedrosimon12728** en GitHub. Aquí documento y analizo temas que me interesan:
 
-Here are some ideas to get you started:
+- 🕵️ Crímenes reales y casos históricos
+- 📜 Historia de Chile y América Latina
+- ⚖️ Justicia, derechos humanos y memoria
+- 📊 Análisis de propaganda y medios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos actuales
+- Repositorio de casos documentados (próximamente)
+- Notas sobre terrorismo de Estado y conflictos contemporáneos
+
+## 🔗 Enlaces
+- [Mi perfil](https://github.com/pedrosimon12728)
+
+---
+
+> "La memoria no es un archivo muerto, es un archivo vivo."
+
+⭐ Si te interesa el contenido, dale una estrella o sígueme para más.
